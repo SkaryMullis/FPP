@@ -1,0 +1,6 @@
+###### Requirements without Version Specifiers ######
+setuptools
+biopython
+numpy
+wheel
+tabulate
